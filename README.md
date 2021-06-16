@@ -13,3 +13,4 @@ Por fim, a pasta datasets inclui todos os arquivos .csv fornecidos e produzidos 
 
 Caso surjam quaisquer dúvidas, me coloco à disposição.
 
+e-mail: tiagottmoraes@gmail.com
