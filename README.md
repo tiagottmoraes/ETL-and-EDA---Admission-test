@@ -1,4 +1,4 @@
-# Admission-test repository
+# Admission-exam repository
 by Tiago Moraes
 
 Neste repositório encontram-se todos os arquivos referentes ao teste admissional.
