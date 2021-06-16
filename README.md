@@ -1,7 +1,7 @@
 # Admission-test repository
 by Tiago Moraes
 
-Neste repositório pode-se encontrar todos os arquivos referentes ao teste admissional.
+Neste repositório encontram-se todos os arquivos referentes ao teste admissional.
 
 Na raíz, encontram-se dois arquivos .ipynb referentes aos notebooks com o código e explanação das atividades realizadas. 
 O primeiro notebook ("Data wrangling code") possui toda o código e explicação das etapas de limpeza e formatação da base de dados fornecida.
