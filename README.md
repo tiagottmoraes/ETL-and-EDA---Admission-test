@@ -3,7 +3,7 @@ by Tiago Moraes
 
 Neste repositório encontram-se todos os arquivos referentes ao teste admissional.
 
-Na raíz do repositório, encontram-se dois arquivos .ipynb referentes aos notebooks com o código e explanação das atividades realizadas. 
+Na raíz do repositório encontram-se dois arquivos .ipynb referentes aos notebooks com o código e explanação das atividades realizadas. 
 O primeiro notebook ("Data wrangling code") possui todo o código e explicação das etapas de limpeza e formatação da base de dados fornecida.
 Analogamente, o segundo arquivo ("EDA code"), apresenta todo o descritivo do processo de exploração analítica dos dados previamente trabalhados.
 
