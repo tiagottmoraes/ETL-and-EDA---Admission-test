@@ -5,7 +5,7 @@ Neste repositório encontram-se todos os arquivos referentes ao teste admissiona
 
 Na raíz do repositório, encontram-se dois arquivos .ipynb referentes aos notebooks com o código e explanação das atividades realizadas. 
 O primeiro notebook ("Data wrangling code") possui toda o código e explicação das etapas de limpeza e formatação da base de dados fornecida.
-O segundo arquivo ("EDA analysis code"), de forma análoga, todo o descritivo do processo de exploração analítica dos dados previamente trabalhados.
+O segundo arquivo ("EDA code"), de forma análoga, todo o descritivo do processo de exploração analítica dos dados previamente trabalhados.
 
 Neste mesmo repositório, encontram-se o arquivo com a apresentação dos resultados ("Comunicação dos resultados"), tanto em formato .ppt quanto em .pdf
 
